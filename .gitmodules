@@ -6,3 +6,7 @@
 	path = Jailbreak Frameworks/iOS 12/jelbrekLIB/jelbrekLib
 	url = https://github.com/jakeajames/jelbrekLib
 	branch = master
+[submodule "Tweak Development/theos"]
+	path = Tweak Development/theos
+	url = https://github.com/theos/theos
+	branch = master
