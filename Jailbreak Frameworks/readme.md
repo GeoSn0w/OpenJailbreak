@@ -1,0 +1,1 @@
+These are pre-made jailbreak frameworks used to create quick jailbreak tools. They tend to have most code built-in, only requiring a tfp0 exploit to be plugged in and the kernel task port (task_port_t variable) to be passed to it at initialization. Refer to the individual documentation for details on how to use them.
