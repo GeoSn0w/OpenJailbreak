@@ -6,6 +6,7 @@
 * Apple Developer Portal: https://developer.apple.com
 * The NewOSXBooks Forum: http://newosxbook.com/forum/index.php
 * ZecOPS' Vulnerabilities Blog (Great write-ups): https://blog.zecops.com/vulnerabilities
+* Siguza's iOS Resources (plenty of good stuff): https://github.com/Siguza/ios-resources
 
 ### SEP (Secure Enclave Processor)
 
