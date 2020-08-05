@@ -1,0 +1,4 @@
+[submodule "Tools/iometa/iometa"]
+	path = Tools/iometa/iometa
+	url = https://github.com/Siguza/iometa
+	branch = master
