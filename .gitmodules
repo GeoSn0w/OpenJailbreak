@@ -2,3 +2,7 @@
 	path = Tools/iometa/iometa
 	url = https://github.com/Siguza/iometa
 	branch = master
+[submodule "Jailbreak Frameworks/iOS 12/jelbrekLIB/jelbrekLib"]
+	path = Jailbreak Frameworks/iOS 12/jelbrekLIB/jelbrekLib
+	url = https://github.com/jakeajames/jelbrekLib
+	branch = master
