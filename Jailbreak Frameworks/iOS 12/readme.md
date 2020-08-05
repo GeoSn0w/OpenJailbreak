@@ -1,0 +1,1 @@
+For iOS 12 up to 12.4-ish? Maybe even more, you can use two frameworks, one at a time. One of them (JelbrekLIB) is open source, while the other is not (QiLin). They both work well, but QiLin being closed-source and largely abandoned, tends to be a pain to fix if there is a bug.
