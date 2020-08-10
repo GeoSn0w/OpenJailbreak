@@ -10,4 +10,7 @@ git clone --recursive https://github.com/GeoSn0w/OpenJailbreak.git
 
 ## This is the beginning of something truly amazing. Stay tuned!
 
-Twitter: @FCE365
+## Find me on Social Media
+
+* Twitter: <a href="https://twitter.com/FCE365" >@FCE365</a>
+* YouTube Channel: <a href="https://youtube.com/fce365official">iDevice Central (Formerly F.C.E. 365 TV - iDevice Central)</a>
