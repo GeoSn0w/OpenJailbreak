@@ -13,3 +13,12 @@
 [submodule "iOS Device Support/iOS-DeviceSupport"]
 	path = iOS Device Support/iOS-DeviceSupport
 	url = https://github.com/iGhibli/iOS-DeviceSupport
+[submodule "IDA Disassembler Scripts/ida_kernelcache"]
+	path = IDA Disassembler Scripts/ida_kernelcache
+	url = https://github.com/bazad/ida_kernelcache
+[submodule "IDA Disassembler Scripts/IDA-IOS-Toolkit"]
+	path = IDA Disassembler Scripts/IDA-IOS-Toolkit
+	url = https://github.com/stefanesser/IDA-IOS-Toolkit
+[submodule "IDA Disassembler Scripts/IDA-Scripts-1"]
+	path = IDA Disassembler Scripts/IDA-Scripts-1
+	url = https://github.com/nihilus/IDA-Scripts-1
