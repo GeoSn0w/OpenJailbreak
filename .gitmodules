@@ -10,3 +10,6 @@
 	path = Tweak Development/theos
 	url = https://github.com/theos/theos
 	branch = master
+[submodule "iOS Device Support/iOS-DeviceSupport"]
+	path = iOS Device Support/iOS-DeviceSupport
+	url = https://github.com/iGhibli/iOS-DeviceSupport
