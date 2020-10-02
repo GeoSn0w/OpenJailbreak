@@ -7,6 +7,7 @@
 * The NewOSXBooks Forum: http://newosxbook.com/forum/index.php
 * ZecOPS' Vulnerabilities Blog (Great write-ups): https://blog.zecops.com/vulnerabilities
 * Siguza's iOS Resources (plenty of good stuff): https://github.com/Siguza/ios-resources
+* Pangu's BlackBird SEP Exploit and Presentation: https://t.co/rk6Jnzfyuj?amp=1
 
 ### SEP (Secure Enclave Processor)
 
